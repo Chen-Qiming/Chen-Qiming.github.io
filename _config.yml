@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Chen Qiming"
+title                    : "Dr. Chen Qiming / 陈启明 博士"
 title_separator          : "-"
 name                     : &name "Chen Qiming"
 description              : &description "I am a senior algorithm engineer at DAMO Academy, Alibaba Group"
@@ -85,7 +85,7 @@ author:
   bio              : "Senior algorithm engineer at DAMO Academy, Alibaba Group"
   location         : "Hangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=VGYN1zAAAAAJ&hl=zh-CN"
   email            : "chenqiming1995@126.com"
   researchgate     :  "https://www.researchgate.net/profile/Qiming-Chen-15"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chen-qiming"
+  github           : "https://github.com/chen-qiming"
   google_plus      :
   keybase          :
   instagram        :
