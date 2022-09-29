@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "This is Dr. Chen Qiming's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,16 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-This is Dr. Chen Qiming's home on the web!
-I work at Alibaba DAMO Academy-Decision Intelligence Lab as a Senior Algorithm Engineer. In 2022, I obtained the Ph.D. degree with the Institute of Cyber-Systems and Control, State Key Laboratory of Industrial Control Technology, Zhejiang University, Hangzhou, China. My main research interests include control system performance evaluation and fault diagnosis, signal decomposition and time-frequency analysis, industrial big data causality analysis and knowledge mining, intelligent system modeling and tuning; It mainly involves modern signal processing and time-frequency analysis, time series analysis, causality analysis, control system simulation and modeling, intelligent optimization algorithms, optimization methods, and common machine learning and neural network algorithms.
 
+About me
+======
+I work at Alibaba DAMO Academy-Decision Intelligence Lab as a Senior Algorithm Engineer. I received my Ph.D. degree at the State Key Laboratory of Industrial Control Technology, Institute of Cyber-Systems and Control, Zhejiang University, Hangzhou, China, with Professor [Xie Lei](https://person.zju.edu.cn/leigh/0.html). My main research interests include control system performance evaluation and fault diagnosis, signal decomposition and time-frequency analysis, industrial big data causality analysis and knowledge mining, intelligent system modeling and tuning; It mainly involves modern signal processing and time-frequency analysis, time series analysis, causality analysis, control system simulation and modeling, intelligent optimization algorithms, optimization methods, and common machine learning and neural network algorithms.
+
+关于我
+======
 浙江大学，工业控制技术国家重点实验室，控制理论与控制工程博士，阿里巴巴达摩院高级算法工程师。主要研究方向包括控制系统性能评估与故障诊断、信号分解与时频分析、工业大数据因果分析与知识挖掘、智能系统建模与整定；主要涉及到现代信号处理与时频分析、时间序列分析、时间序列周期检测、时间序列异常检测、时间序列预测、时间序列因果分析、控制系统仿真与建模、智能优化算法、最优化方法以及常见的机器学习与神经网络算法。
+
+
 
 
 <!-- A data-driven personal website
