@@ -1,7 +1,7 @@
 ---
 title: "Detecting nonlinear oscillations in process control loop based on an improved VMD"
 collection: publications
-<!-- permalink: /publication/2009-10-01-paper-title-number-1 -->
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about variational mode decompositon.'
 date: 2019-1-1
 venue: 'IEEE Access'
