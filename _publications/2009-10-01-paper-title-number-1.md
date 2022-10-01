@@ -1,9 +1,9 @@
 ---
-title: "Detecting nonlinear oscillations in process control loop based on an improved VMD"
+title: "Diagnosis of nonlinearity-induced oscillations in process control loops based on adaptive chirp mode decomposition"
 collection: publications
 permalink: 
-excerpt: 'This paper is about variational mode decompositon test.'
-date: 2019-1-1
-venue: 'IEEE Access'
-paperurl: 
+excerpt: 'Nonlinearity-induced oscillation detection is of great significance for the control loop performance assessment. A novel nonlinearity-induced oscillation detector based on ACMD (adaptive chirp mode decomposition) is proposed in this work. ACMD is a powerful signal processing tool and can decompose the process variable into several sub-signals, called as chirp mode. Then, two common oscillation indexes, namely, the normalized correlation coefficient and the sparseness index, are adopted to identify the oscillations contained in these modes. In this way, only significant oscillatory modes are retained and can be further analyzed for nonlinearity diagnosis by investigating the relationships among different frequencies. Simulation and industrial cases highlight the effectiveness and advantages of our methodology in various cases.'
+date: 2020-1-1
+venue: 'American Control Conference (ACC) 2020'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9147951'
 ---
