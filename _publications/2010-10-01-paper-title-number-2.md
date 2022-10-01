@@ -9,6 +9,6 @@ paperurl: 'http://academicpages.github.io/files/Detecting Nonlinear Oscillations
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here]([http://academicpages.github.io/files/paper2.pdf](http://academicpages.github.io/files/Detecting Nonlinear Oscillations in Process Control Loop Based on an Improved VMD.pdf))
+[Download paper here]([http://academicpages.github.io/files/Detecting Nonlinear Oscillations in Process Control Loop Based on an Improved VMD.pdf](http://academicpages.github.io/files/Detecting Nonlinear Oscillations in Process Control Loop Based on an Improved VMD.pdf))
 
 
