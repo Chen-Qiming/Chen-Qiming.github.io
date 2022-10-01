@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Dr. Chen Qiming's Homepage!"
+title: "Dr. Chen Qiming's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
