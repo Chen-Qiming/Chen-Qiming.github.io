@@ -17,24 +17,36 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2022: Algorithm Engineer (Part-time/Intern)
+  * Zhejiang CYBSTAR Technology Co., Ltd
+  * Duties included: Intelligent controller tuning, fault detection and diagnosis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - : Senior Algorithm Engineer
+  * DAMO Academy, Alibaba Group
+  * Duties included: Research and application of time series analysis algorithm
+  * Supervisor: [Wen Qingsong](https://sites.google.com/site/qingsongwen8/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Time series analysis**
+  * Anomaly detection
+  * Forecast
+  * Causality analysis
+* **Signal processing**
+  * Signal decomposition
+  * Time-frequency analysis
+  * Multivariate signal processing
+* **Control performance assessment**
+  * Oscillation detection and diagnosis
+  * Fault root cause location
+* **Intelligent control**
+  * Intelligent controller tuning
+  * Control system identification
+  * System simulation and modeling
+* **Programing language**
+  * Python
+  * Matlab
+  * C
 
 Publications
 ======
@@ -42,7 +54,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +64,16 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
+Major awards
+======
+* 2022.06 浙江省优秀毕业生, Zhejiang Province Outstanding Ph.D. Graduate Student
+* 2022.06 浙江大学优秀毕业生, Zhejiang University Outstanding Ph.D. Graduate Student
+* 2021.10 博士生国家奖学金, National Scholarship
+* 2020.12 博士生国家奖学金, National Scholarship
+* 2016.11 本科生国家奖学金, National Scholarship
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers of multiple journals and conferences
