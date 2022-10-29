@@ -1,0 +1,9 @@
+---
+title: "Detection and root cause analysis of multiple plant-wide oscillations using multivariate nonlinear chirp mode decomposition and multivariate granger causality"
+collection: publications
+permalink: 
+excerpt: 'Plant-wide oscillation detection and root cause diagnosis are important for maintaining control performance. Existing methods are mainly limited to detecting single and time-invariant plant-wide oscillations. In this paper, a data-driven model combining multivariate nonlinear chirp mode decomposition (MNCMD) with multivariate Granger causality (MGC) is proposed to detect and analyze root causes for multiple plant-wide oscillations in process control system. First, an MNCMD-based detector is developed to capture the multiple plant-wide oscillations, where oscillating variables caused by different sources are automatically clustered into various groups. Then, MGC is applied to each group to obtain the root causes of multiple plant-wide oscillations. Compared with state-of-the-art detection methods, the proposed approach shows better performance in the following aspects: (i) ability to extract both single/multiple plant-wide oscillations; (ii) capability to process both time-invariant/time-varying oscillations and provide accurate time-frequency information. This work also outperforms original Granger causality and nonlinearity index-based method in providing clearer causal network. The effectiveness and advantages of the proposed approach are demonstrated with the help of both simulation and industrial case studies.'
+date: 2021-4-1
+venue: 'Computers & Chemical Engineering'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0098135421000090'
+---
