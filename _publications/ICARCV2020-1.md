@@ -6,5 +6,5 @@ excerpt: 'Abdominal electrocardiogram is an important means to obtain fetal heal
 date: 2020-12-13
 venue: '2020 16th International Conference on Control, Automation, Robotics and Vision'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9305481'
-citation: 'J Zhang, X Xu, <b>Q Chen</b>, L Xie, H Su. <i>International Conference on Control, Automation, Robotics and Vision</i>. (2020).'
+citation: 'Jiayue Zhang, Xiaozhou Xu, <b>Qiming Chen</b>, Lei Xie, Hongye Su. <i>International Conference on Control, Automation, Robotics and Vision</i>. (2020).'
 ---
