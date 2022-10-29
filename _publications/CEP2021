@@ -1,0 +1,10 @@
+---
+title: "Two-layer structure strategy for large-scale systems integrating online adaptive constraints adjustment method and cooperative distributed DMC algorithm"
+collection: publications
+permalink: 
+excerpt: 'In this paper, a distributed two-layer structure strategy for large-scale systems is described. In the upper level of the structure, usually known as the Steady State Target Optimizer (SSTO) layer, we fully consider the possible constraints in the industrial process as well as their priority order and put forward an online adaptive constraints adjustment (OACA) scheme to ensure the stable operation of the production device. Based on Pareto optimal, a new cooperative distributed dynamic matrix control (CDDMC) algorithm is proposed for the lower MPC layer. The algorithm makes use of the finite step response model and Dynamic Matrix Control (DMC) method which are commonly applied in the process industry, decomposes the large-scale system into multiple interconnected subsystems for a significantly reduced computational burden, and works over a cooperative way based on Jacobi-type iteration to achieve the global optimal solution. Then the convergence of the CDDMC algorithm is investigated and the offset-free control of the strategy is discussed. Finally, the two-layer structure distributed strategy is applied to two examples to analyze its applicability and effectiveness in comparison with the centralized one.'
+date: 2021-11-1
+venue: 'Control Engineering Practice'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0967066121002094'
+citation: 'Yao Shi, Zhiming Zhang, Pei Sun, Lei Xie, <b>Qiming Chen</b>, Hongye Su, Xiaoqiang Chen. <i>Control Engineering Practice</i>. (2021).'
+---
