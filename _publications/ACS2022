@@ -1,0 +1,10 @@
+---
+title: "Quality-Relevant Process Monitoring with Concurrent Locality-Preserving Dynamic Latent Variable Method"
+collection: publications
+permalink: 
+excerpt: 'A concurrent locality-preserving dynamic latent variable (CLDLV) method is proposed to extract the correlation between process variables and quality variables for quality-related dynamic process monitoring. Given that dynamic process data can easily be contaminated by noise and outliers and conventional dynamic latent variable models lack robustness, a low-rank autoregressive model is developed to deal with autocorrelation and cross-correlation properties among the data. Then neighborhood structure information is integrated into the partial least squares model, which can better reveal the essential structure of the data. The final concurrent projection of the latent structures is employed to monitor output-related faults and input-related process faults that affect quality. The Tennessee Eastman process and hot strip mill process are used to demonstrate the effectiveness of CLDLV-based detection and diagnostic methods.'
+date: 2022-7-27
+venue: 'ACS omega'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acsomega.2c02118'
+citation: 'Qi Zhang, Shan Lu, Lei Xie, <b>Qiming Chen</b>, Hongye Su. <i>ACS omega</i>. (2022).'
+---
