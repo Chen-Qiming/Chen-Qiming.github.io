@@ -6,4 +6,5 @@ excerpt: 'As convolutional neural network contains many redundant parameters, a 
 date: 2020-12-13
 venue: '2020 16th International Conference on Control, Automation, Robotics and Vision'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9305481'
+citation: 'X Xu, <b>Q Chen</b>, L Xie, H Su. <i>International Conference on Control, Automation, Robotics and Vision</i>. (2020).'
 ---
