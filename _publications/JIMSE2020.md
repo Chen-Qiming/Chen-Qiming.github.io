@@ -6,4 +6,5 @@ excerpt: 'A novel causality analysis framework is proposed based on denoising an
 date: 2020-12-15
 venue: 'Journal of Intelligent Manufacturing and Special Equipment'
 paperurl: 'https://www.emerald.com/insight/content/doi/10.1108/JIMSE-06-2020-0003/full/html'
+citation: '<b>Q Chen</b>, X Fei, L Xie, D Li, Q Wang. <i>Journal of Intelligent Manufacturing and Special Equipment</i>. (2020).'
 ---
