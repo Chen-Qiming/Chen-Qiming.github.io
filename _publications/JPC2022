@@ -1,0 +1,10 @@
+---
+title: "On demodulation of time-varying oscillations in process plant"
+collection: publications
+permalink: 
+excerpt: 'Due to the presence of process fluctuation, transient impacts and noise, most of the oscillations in industrial control-loops evolve with time-varying properties. If significant variation is observed under a limited monitoring window, the existing regularity-based oscillation detectors may be invalid. To tackle this problem, this paper proposes to describe the oscillations as a kind of amplitude modulated and frequency modulated (AM–FM) signals, and designs corresponding scheme to extract and detect them. More specifically, our proposed method is featured by following steps: (i) Decompose the process output into several AM–FM modes using ensemble empirical mode decomposition; (ii) Demodulate each mode with Teager energy operator for extracting the corresponding instantaneous amplitude and frequency functions; (iii) Identify the oscillatory variables by developing a new statistical measure based on the deviation of the frequency variation. The applicability of the proposed method is validated through a set of simulations and representative chemical applications. Comparative studies also demonstrate that it outperforms existing time–frequency tools and typical regularity-based detectors.'
+date: 2022-12-01
+venue: 'Journal of Process Control'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0959152422001901'
+citation: 'Xun Lang, <b>Qiming Chen</b>, Shan Lu, Alexander Horch, Yufeng Zhang. <i>ACS omega</i>. (Journal of Process Control).'
+---
