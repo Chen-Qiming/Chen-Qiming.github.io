@@ -14,6 +14,7 @@ Education
 <!-- * B.S. in North China Electric Power Uni, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014 -->
 * Ph.D in Institute of Cyber-Systems and Control, State Key Laboratory of Industrial Control Technology, Zhejiang University
+* Supervisor: Prof. [Xie Lei](https://person.zju.edu.cn/leigh/0.html)
 
 Work experience
 ======
@@ -24,7 +25,7 @@ Work experience
 * 2022 - : Senior Algorithm Engineer
   * DAMO Academy, Alibaba Group
   * Duties included: Research and application of time series analysis algorithm
-  * Supervisor: [Wen Qingsong](https://sites.google.com/site/qingsongwen8/)
+  * Leader: [Wen Qingsong](https://sites.google.com/site/qingsongwen8/)
   
 Skills
 ======
