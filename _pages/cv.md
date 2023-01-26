@@ -21,17 +21,26 @@ Education（教育经历）
 Work experience（工作经历）
 ======
 * 2020 - 2022: Algorithm Engineer (Part-time/Intern)
+
                算法工程师实习生
+       
   * Zhejiang CYBSTAR Technology Co., Ltd 
+  
     [浙江中智达科技有限公司](http://www.cybstar.com/)
+    
   * Duties included: Intelligent controller tuning , fault detection and diagnosis 
+  
     工作职责：控制器智能整定，故障检测与诊断
 
 * 2022 - : Senior Algorithm Engineer （高级算法工程师）
   * DAMO Academy, Alibaba Group
+  
     [阿里巴巴达摩院决策智能实验室](https://damo.alibaba.com/labs/decision-intelligence) 
+    
   * Duties included: Research and application of time series analysis algorithm 
-    时间序列分析算法研究与应用
+  
+    工作职责：时间序列分析算法研究与应用
+    
   * Leader: [Wen Qingsong](https://sites.google.com/site/qingsongwen8/)
   
 Skills（技能）
