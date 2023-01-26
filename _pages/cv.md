@@ -20,10 +20,7 @@ Education（教育经历）
 
 Work experience（工作经历）
 ======
-* 2020 - 2022: Algorithm Engineer (Part-time/Intern)
-
-               算法工程师实习生
-       
+* 2020 - 2022: Algorithm Engineer (Part-time/Intern)（算法工程师实习生）
   * Zhejiang CYBSTAR Technology Co., Ltd 
   
     [浙江中智达科技有限公司](http://www.cybstar.com/)
