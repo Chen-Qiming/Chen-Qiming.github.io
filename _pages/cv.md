@@ -14,7 +14,12 @@ Education
 <!-- * B.S. in North China Electric Power Uni, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014 -->
 * Ph.D in Institute of Cyber-Systems and Control, State Key Laboratory of Industrial Control Technology, Zhejiang University
+  
+  浙江大学控制科学与工程学院工业控制技术国家重点实验室博士
+  
 * Supervisor: Prof. [Xie Lei](https://person.zju.edu.cn/leigh/0.html)
+  
+  导师[谢磊](https://person.zju.edu.cn/leigh/0.html)教授
 
 Work experience
 ======
