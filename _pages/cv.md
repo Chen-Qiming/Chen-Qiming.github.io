@@ -14,8 +14,11 @@ Education（教育经历）
 <!-- * B.S. in North China Electric Power Uni, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014 -->
 * Ph.D in Institute of Cyber-Systems and Control, State Key Laboratory of Industrial Control Technology, Zhejiang University
+
   浙江大学控制科学与工程学院工业控制技术国家重点实验室博士
+  
 * Supervisor: Prof. [Xie Lei](https://person.zju.edu.cn/leigh/0.html)
+
   导师：[谢磊](https://person.zju.edu.cn/leigh/0.html)教授
 
 Work experience（工作经历）
@@ -43,8 +46,8 @@ Work experience（工作经历）
 Skills（技能）
 ======
 * **Time series analysis（时间序列分析）**
-  * Anomaly detection（异常检测）
-  * Forecast（时序预测）
+  * AIOps/Anomaly detection（异常检测）
+  * Electric load Forecasting（电力负荷预测）
   * Causality analysis（因果分析）
 * **Signal processing（信号处理）**
   * Signal decomposition（信号分解）
