@@ -43,10 +43,10 @@ Work experience（工作经历）
     
   * Leader: [Wen Qingsong](https://sites.google.com/site/qingsongwen8/)
   
-Skills（技能）
+Research Interests（研究方向）
 ======
 * **Time series analysis（时间序列分析）**
-  * AIOps/Anomaly detection（异常检测）
+  * AIOps/Anomaly detection（智能运维/异常检测）
   * Electric load Forecasting（电力负荷预测）
   * Causality analysis（因果分析）
 * **Signal processing（信号处理）**
@@ -60,10 +60,12 @@ Skills（技能）
   * Intelligent controller tuning（智能控制器整定）
   * Control system identification（控制系统辨识）
   * System simulation and modeling（系统仿真与建模）
-* **Programing language（编程语言）**
-  * Python
-  * Matlab
-  * C
+
+Programing language（编程语言）
+======
+* Python
+* Matlab
+* C
 
 Publications（论文成果）
 ======
