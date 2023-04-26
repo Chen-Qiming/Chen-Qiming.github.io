@@ -17,7 +17,7 @@ I work at [Alibaba DAMO Academy-Decision Intelligence Lab](https://damo.alibaba.
 
 My main research interests include control system performance evaluation and fault diagnosis, signal decomposition and time-frequency analysis, industrial big data causality analysis and knowledge mining, intelligent system modeling and tuning; It mainly involves modern signal processing and time-frequency analysis, time series analysis, causality analysis, control system simulation and modeling, intelligent optimization algorithms, optimization methods, and common machine learning and neural network algorithms. 
 
-My email address is [chenqiming1995@126.com](chenqiming1995@126.com)
+My email address is chenqiming1995@126.com
 
 My CV is available at [https://chen-qiming.github.io/cv/](https://chen-qiming.github.io/cv/)
 
@@ -27,7 +27,7 @@ My CV is available at [https://chen-qiming.github.io/cv/](https://chen-qiming.gi
 
 主要研究方向包括控制系统性能评估与故障诊断、信号分解与时频分析、工业大数据因果分析与知识挖掘、智能系统建模与整定；主要涉及到现代信号处理与时频分析、时间序列分析、时间序列周期检测、时间序列异常检测、时间序列预测、时间序列因果分析、控制系统仿真与建模、智能优化算法、最优化方法以及常见的机器学习与神经网络算法。
 
-邮箱：[chenqiming1995@126.com](chenqiming1995@126.com)
+邮箱：chenqiming1995@126.com
 
 简历：[https://chen-qiming.github.io/cv/](https://chen-qiming.github.io/cv/)
 
