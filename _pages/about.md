@@ -19,7 +19,7 @@ My main research interests include control system performance evaluation and fau
 
 My email address is chenqiming1995@126.com
 
-My CV is available at [https://chen-qiming.github.io/cv/](https://chen-qiming.github.io/cv/)
+My CV is available at [http://chen-qiming.github.io/files/陈启明-简历.pdf](http://chen-qiming.github.io/files/陈启明-简历.pdf)
 
 关于我
 ======
@@ -29,7 +29,7 @@ My CV is available at [https://chen-qiming.github.io/cv/](https://chen-qiming.gi
 
 邮箱：chenqiming1995@126.com
 
-简历：[https://chen-qiming.github.io/cv/](https://chen-qiming.github.io/cv/)
+简历：[http://chen-qiming.github.io/files/陈启明-简历.pdf](http://chen-qiming.github.io/files/陈启明-简历.pdf)
 
 
 
