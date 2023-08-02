@@ -41,7 +41,6 @@ Work experience（工作经历）
   
     工作职责：时间序列分析算法研究与应用
     
-  * Leader: [Wen Qingsong](https://sites.google.com/site/qingsongwen8/)
   
 Research Interests（研究方向）
 ======
