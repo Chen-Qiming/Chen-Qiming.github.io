@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Chen Qiming / 陈启明 博士"
 title_separator          : "-"
 name                     : &name "Chen Qiming"
-description              : &description "I am a senior algorithm engineer at DAMO Academy, Alibaba Group"
+description              : &description "I am an algorithm engineer at DAMO Academy, Alibaba Group"
 url                      : https://chen-qiming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chen-qiming.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Chen Qiming"
   avatar           : "profile.png"
-  bio              : "Senior algorithm engineer at DAMO Academy, Alibaba Group"
+  bio              : "Algorithm engineer at DAMO Academy, Alibaba Group"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
