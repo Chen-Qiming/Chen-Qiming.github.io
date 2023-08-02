@@ -13,13 +13,15 @@ redirect_from:
 
 About me
 ======
-I work at [Alibaba DAMO Academy-Decision Intelligence Lab](https://damo.alibaba.com/labs/decision-intelligence) as a Senior Algorithm Engineer. I received my Ph.D. degree at the State Key Laboratory of Industrial Control Technology, Institute of Cyber-Systems and Control, Zhejiang University, Hangzhou, China, with Professor [Xie Lei](https://person.zju.edu.cn/leigh/0.html). 
+I work at [Alibaba DAMO Academy-Decision Intelligence Lab](https://damo.alibaba.com/labs/decision-intelligence) as an Algorithm Engineer. I received my Ph.D. degree at the State Key Laboratory of Industrial Control Technology, Institute of Cyber-Systems and Control, Zhejiang University, Hangzhou, China, with Professor [Xie Lei](https://person.zju.edu.cn/leigh/0.html). 
 
 My main research interests include control system performance evaluation and fault diagnosis, signal decomposition and time-frequency analysis, industrial big data causality analysis and knowledge mining, intelligent system modeling and tuning; It mainly involves modern signal processing and time-frequency analysis, time series analysis, causality analysis, control system simulation and modeling, intelligent optimization algorithms, optimization methods, and common machine learning and neural network algorithms. 
 
 My email address is chenqiming1995@126.com
 
 My CV is available at [http://chen-qiming.github.io/files/陈启明-简历.pdf](http://chen-qiming.github.io/files/陈启明-简历.pdf)
+
+My publications are listed on [https://scholar.google.com/citations?user=VGYN1zAAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=VGYN1zAAAAAJ&hl=zh-CN)
 
 关于我
 ======
@@ -31,7 +33,7 @@ My CV is available at [http://chen-qiming.github.io/files/陈启明-简历.pdf](
 
 简历：[http://chen-qiming.github.io/files/陈启明-简历.pdf](http://chen-qiming.github.io/files/陈启明-简历.pdf)
 
-
+论文：[https://scholar.google.com/citations?user=VGYN1zAAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=VGYN1zAAAAAJ&hl=zh-CN)
 
 
 <!-- A data-driven personal website
